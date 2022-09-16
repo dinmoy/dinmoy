@@ -28,8 +28,8 @@
 
 ***
 
-![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=omni)](https://github.com/dinmoy/github-readme-stats)
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=omni)](https://github.com/dinmoy/github-readme-stats)
 
-
+[![Hyojin's github activity graph](https://activity-graph.herokuapp.com/graph?username=dinmoy&theme=dracula)](https://github.com/dinmoy/github-readme-activity-graph)
 
 
