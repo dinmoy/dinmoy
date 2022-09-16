@@ -14,6 +14,8 @@
 
 </div>
 
+<a href="[[(https://www.instagram.com/)]" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
 <div align="center">
 <h4> 📑Studying</h4>
 <img src="https://img.shields.io/badge/C-A5CD39?style=flat-square&logo=C&logoColor=000000"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=000000"/>   <img src="https://img.shields.io/badge/JAVA-40AEF0?style=flat-square&logo=JAVA&logoColor=000000"/>
@@ -27,9 +29,10 @@
 
 ***
 
-
-![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=compact&theme=dark)]
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=compact&theme=omni)]
 
 
 
  [![dinmoy github activity graph](https://activity-graph.herokuapp.com/graph?username=hyojin&theme=synthwave)](https://github.com/hyojin/github-readme-activity-graph)
+ 
+
