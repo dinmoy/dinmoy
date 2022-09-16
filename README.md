@@ -29,7 +29,7 @@
 
 ***
 
-![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=omni)](https://github.com/anuraghazra/github-readme-stats)
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=omni)](https://github.com/dinmoy/github-readme-stats)
 
 
 
