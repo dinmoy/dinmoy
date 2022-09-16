@@ -14,7 +14,6 @@
 
 </div>
 
-<a href="[[(https://www.instagram.com/)]" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 <div align="center">
 <h3> 📑Studying</h3>
@@ -29,10 +28,8 @@
 
 ***
 
-![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=omni)](https://github.com/dinmoy/github-readme-stats)
+![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyojin&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin&layout=omni)](https://github.com/dinmoy/github-readme-stats)
 
 
 
- [![dinmoy github activity graph](https://activity-graph.herokuapp.com/graph?username=hyojin&theme=synthwave)](https://github.com/hyojin/github-readme-activity-graph)
- 
 
