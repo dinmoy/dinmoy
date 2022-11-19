@@ -1,5 +1,5 @@
 <div align="center">
- <h1><span style="color:pink">𝑯𝒆𝒍𝒍𝒐,𝑰'𝒎 𝑯𝒚𝒐𝒋𝒊𝒏</span></h1> 
+ <h1><span style="color:pink">𝑯𝒆𝒍𝒍𝒐</span></h1> 
 </div>
 
 <div align="center">
