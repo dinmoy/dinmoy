@@ -16,6 +16,6 @@
 
 ***
 
-![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=omni) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)
 
 
