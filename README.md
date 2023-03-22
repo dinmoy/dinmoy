@@ -14,6 +14,7 @@
 
 ***
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)-->
 
 
