@@ -13,7 +13,7 @@
 </div>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)
 
 
