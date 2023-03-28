@@ -13,8 +13,8 @@
 </div>
 
 ***
-![Hyojin Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Hyojin Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Hyojin Lim's github activity graph](https://activity-graph.herokuapp.com/graph?username=dinmoy&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinmoy&theme=default)-->
 
