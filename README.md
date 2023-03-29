@@ -16,7 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact">
 
-
- [!Hyojin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dinmoy&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/dinmoy/github-readme-activity-graph)
+[![Hyojin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dinmoy)](https://github.com/dinmoy/github-readme-activity-graph)
 
 
