@@ -14,7 +14,7 @@
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact">
 
 
 <!--[![Hyojin Lim's github activity graph](https://activity-graph.herokuapp.com/graph?username=dinmoy&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)-->
