@@ -1,6 +1,5 @@
 <div align="center">
 
-![reversal](https://dinmoy.vercel.app/api?type=rect&text=Hyojin Lim&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 </div>
 
