@@ -1,5 +1,7 @@
 <div align="center">
- <h1><span style="color:pink">𝑯𝒆𝒍𝒍𝒐</span></h1>
+ <!--<h1><span style="color:pink">𝑯𝒆𝒍𝒍𝒐</span></h1>-->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=babypink&height=200&section=header&text=Hyojin Lim&fontSize=90" />
+
 </div>
 
 <div align="center">
