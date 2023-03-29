@@ -17,6 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact">
 
 
- [!dinmoy's github activity graph](https://activity-graph.herokuapp.com/graph?username=dinmoy&theme=monokai)](https://github.com/dinmoy/github-readme-activity-graph)
+ [!Hyojin Lim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hyojin Lim&theme=monokai)](https://github.com/Hyojin Lim/github-readme-activity-graph)
 
 
