@@ -1,6 +1,6 @@
 <div align="center">
 
-![reversal](https://Hyojin Lim-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://dinmoy.vercel.app/api?type=rect&text=Hyojin Lim&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 </div>
 
