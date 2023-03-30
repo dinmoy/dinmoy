@@ -12,7 +12,7 @@
 </div>
 
 ![Hyojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinmoy&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact)](https://github.com/dinmoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinmoy&layout=compact&theme=react)](https://github.com/dinmoy/github-readme-stats)
 
 [![Hyojin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dinmoy)](https://github.com/dinmoy/github-readme-activity-graph)
 
