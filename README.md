@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hyojin Lim%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 </div>
 
 <div align="center">
